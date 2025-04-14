@@ -57,10 +57,8 @@ DJANGO_APPS = [
     "django.contrib.staticfiles",
     "django.contrib.admin",
     "django.forms",
-    "apps.api",
-    "apps.blogs",
-    "apps.employees",
-    "apps.students",
+    "apps.endpoints",
+    
 ]
 THIRD_PARTY_APPS = [
     "crispy_forms",
