@@ -1,0 +1,10 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=localhost
+POSTGRES_PORT=5432
+POSTGRES_DB=demo_cookiecutter
+POSTGRES_USER=debug
+POSTGRES_PASSWORD=12345
+
+
+DATABASE_URL=postgres://postgres:12345@localhost:5432/demo_cookiecutter
